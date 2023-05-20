@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "latitude": 51.99605,
+            "longitude": 19.488789,
+            "type": "country",
+            "name": "Poland",
+            "number": null,
+            "postal_code": null,
+            "street": null,
+            "confidence": 1,
+            "region": null,
+            "region_code": null,
+            "county": null,
+            "locality": null,
+            "administrative_area": null,
+            "neighbourhood": null,
+            "country": "Poland",
+            "country_code": "POL",
+            "continent": "Europe",
+            "label": "Poland",
+            "bbox_module": [
+                14.122885,
+                49.002047,
+                24.145783,
+                54.836417
+            ],
+            "country_module": {
+                "latitude": 52.147850036621094,
+                "longitude": 19.37775993347168,
+                "common_name": "Poland",
+                "official_name": "Republic of Poland",
+                "capital": "Warsaw",
+                "flag": "🇵🇱",
+                "area": 312679,
+                "landlocked": false,
+                "independent": true,
+                "global": {
+                    "alpha2": "PL",
+                    "alpha3": "POL",
+                    "numeric_code": "616",
+                    "region": "Europe",
+                    "subregion": "Eastern Europe",
+                    "region_code": "150",
+                    "subregion_code": "151",
+                    "world_region": "EMEA",
+                    "continent_name": "Europe",
+                    "continent_code": "EU"
+                },
+                "dial": {
+                    "calling_code": "48",
+                    "national_prefix": "0",
+                    "international_prefix": "00"
+                },
+                "currencies": [
+                    {
+                        "symbol": "zł",
+                        "code": "PLN",
+                        "name": "Zloty",
+                        "numeric": 985,
+                        "minor_unit": 2
+                    }
+                ],
+                "languages": {
+                    "pol": "Polish"
+                }
+            },
+            "sun_module": {
+                "rise": {
+                    "time": 1673419568,
+                    "astronomical": 1673412197,
+                    "civil": 1673417202,
+                    "nautical": 1673414637
+                },
+                "set": {
+                    "time": 1673448813,
+                    "astronomical": 1673456183,
+                    "civil": 1673451178,
+                    "nautical": 1673453743
+                },
+                "transit": 1673434190
+            },
+            "timezone_module": {
+                "name": "Europe/Warsaw",
+                "offset_sec": 3600,
+                "offset_string": "+01:00"
+            }
+        }
+    ]
+}
